@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Map</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="map-container">
+    <img src="./img/fortmap.png" alt="Dwarf Fort Map" id="map-image">
+    <img src="./img/fort-georegions.png" alt="Georegion overlay" id="georegion">
+<!--
+    <img src="../Desktop/fort-civilizationss.png" alt="Civilizations overlay" id="civilizations">
+    <img src="../Desktop/fort-events.png" alt="Events overlay" id="events">
+-->
+  </div>
+  <div class="legend-container">
+
+    <h1>Legend</h1>
+    <hr/>
+    <ol>
+      <li>
+        <input type="checkbox" id="geo-overlay-toggle" checked>
+        <label for="geo-overlay-toggle">&mdash; Toggle Georegions</label>
+      </li>
+<!--
+      <li>
+        <input type="checkbox" id="civ-overlay-toggle">
+        <label for="civ-overlay-toggle">&mdash; Toggle Civilizations</label>
+      </li>
+      <li>
+        <input type="checkbox" id="event-overlay-toggle">
+        <label for="event-overlay-toggle">&mdash; Toggle Journeys/Events</label>
+      </li>
+-->
+  <script src="./legend.js"></script>
+  </div>
+</body>
+</html>
