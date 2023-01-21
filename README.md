@@ -7,4 +7,4 @@ This is a lil map-hosting project I thought would complement our group play thro
 
 Made for our **[Order of the Cockatrice](https://junethack.net/clan/OrderOfTheCockatrice)** group playthrough of **[DF v50.05](https://kitfoxgames.itch.io/dwarf-fortress)**.
 
-Strike the earth n stuff :)
+Strike the earth n stuff ⛏️✨
